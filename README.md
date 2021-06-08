@@ -3,9 +3,7 @@ Get your age been calculated in seconds by just putting your details (birth year
 
 
 Put the year when you were born
-
 Put the month when your were born (such as, January to be written in 1.)
-
 Put the date on which you were born.
 
 
