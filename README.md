@@ -11,4 +11,4 @@ Step 3:
 Put the date on which you were born.
 
 
-Run the command on your code editor or on [Repl.it](www.repl.it/@maniacalive/age-calculator). That's all and you will get your age.
+Run the command on your code editor or on [Repl.it](https://replit.com/@maniacalive/Age-Calculator). That's all and you will get your age.
